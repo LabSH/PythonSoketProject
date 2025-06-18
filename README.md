@@ -1,3 +1,6 @@
+<img width="759" alt="스크린샷 2025-06-19 오전 1 07 30" src="https://github.com/user-attachments/assets/6668fcc4-d09b-489b-b996-e480127c1799" />
+
+
 ## 💬 Python 소켓 채팅 프로그램
 
 ### 🗓️ 프로젝트 기간
